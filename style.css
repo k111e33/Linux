@@ -3,3 +3,8 @@ h1 {
     font-size: 32px;
     text-transform: uppercase;
 }
+td {
+    text-align: center;
+    font-weight: bold;
+    background-color: #e0f2f1;
+}
