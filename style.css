@@ -12,4 +12,11 @@ th, td {
     background-color: #d1c4e9;
     padding: 10px;
     border: 2px solid white;
+footer a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+footer a:hover {
+    color: #ff6600;
 }
